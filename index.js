@@ -11,7 +11,7 @@ window.addEventListener("scroll", () => {
         
     }else{
         searchBar.style.height = '5rem'
-        topitems.style.height = '3rem'
+        topitems.style.height = '4rem'
         topMenus.style.height = '0'
     }
 })
